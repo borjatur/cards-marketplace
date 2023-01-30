@@ -1,0 +1,7 @@
+.DS_Store
+.env.production
+npm-debug.log*
+
+/node_modules
+/build/
+
